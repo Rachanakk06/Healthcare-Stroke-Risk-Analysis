@@ -2,7 +2,9 @@
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview](Stroke_Analysis_Screenshot1.png)
+![Dashboard Preview](Stroke_Analysis_Screenshot2.png)
+![Dashboard Preview](Stroke_Analysis_Screenshot3.png)
 
 ## Project Overview
 
@@ -43,10 +45,12 @@ This project analyzes healthcare stroke risk data using Microsoft Excel, SQL Ser
 
 ## Files Included
 
-- `Healthcare_Stroke_Dataset.xlsx` – Source dataset
+- `healthcare_dataset_stroke_data_v2.xlsx` – Source dataset
 - `Healthcare_Stroke_Analysis.sql` – SQL scripts
-- `Healthcare_Stroke_Dashboard.pbix` – Power BI dashboard
-- `Dashboard_Screenshot.png` – Dashboard preview
+- `Healthcare_Stroke_Analysis.pbix` – Power BI dashboard
+- `Stroke_Analysis_Screenshot1.png` – Dashboard preview
+- `Stroke_Analysis_Screenshot2.png` – Dashboard preview
+- `Stroke_Analysis_Screenshot3.png` – Dashboard preview
 
 ## Skills Demonstrated
 
